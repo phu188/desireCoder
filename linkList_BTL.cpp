@@ -6,6 +6,7 @@
 #include <conio.h>
 #define yearnow 2024
 // Khởi tao struct phi hành gia
+//hello
 typedef struct date{
 	int day;
 	int month;
